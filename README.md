@@ -1,6 +1,6 @@
 <div align="center">
 
-### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px">, I am Marvin Stickel
+### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25rem">, I am Marvin Stickel
 
 I'm a **Junior Software Developer** working at **[epages](https://epages.com/en/)** in **[Jena, Germany](https://goo.gl/maps/FjHhzhpnCxg4z4FF6)**.
 
