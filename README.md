@@ -2,7 +2,7 @@
 
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25rem">, I am Marvin Stickel
 
-I'm a **Junior Software Developer** working at **[epages](https://epages.com/en/)** in **[Jena, Germany](https://goo.gl/maps/FjHhzhpnCxg4z4FF6)**.
+I'm a **Software Developer** working at **[epages](https://epages.com/en/)** in **[Jena, Germany](https://goo.gl/maps/FjHhzhpnCxg4z4FF6)**.
 
 ---
 
@@ -27,10 +27,6 @@ I'm a **Junior Software Developer** working at **[epages](https://epages.com/en/
 #### ⚙️ Tools
 [![Visual Studio Code](https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=red)](https://www.postman.com/)
-
-### 📈 GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=SenseiMarv&count_private=true&show_icons=true&theme=onedark&hide_border=true&border_radius=1rem" alt="Marvin Stickel's GitHub Stats">
 
 ### 🔗 Links
 
