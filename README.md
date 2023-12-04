@@ -2,7 +2,7 @@
 
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25rem">, I am Marvin Stickel
 
-I'm a **Software Developer** working at **[epages](https://epages.com/en/)** in **[Jena, Germany](https://goo.gl/maps/FjHhzhpnCxg4z4FF6)**.
+I'm a **Frontend Developer** working at **[PRISMA](https://www.prisma-capacity.eu/)** in **[Jena, Germany](https://goo.gl/maps/FjHhzhpnCxg4z4FF6)**.
 
 ---
 
